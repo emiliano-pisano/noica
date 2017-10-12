@@ -1,10 +1,11 @@
 <!-- Logo -->
 <a href="index.php" class="logo">
   <!-- mini logo for sidebar mini 50x50 pixels -->
-  <span class="logo-mini"><b>A</b>LT</span>
+  <span class="logo-mini"><b>FITQ</b></span>
   <!-- logo for regular state and mobile devices -->
-  <span class="logo-lg"><b>Admin</b>LTE</span>
+  <span class="logo-lg"> <img src="dist/img/logo1.gif" class="user-image" alt="User Image"><b> </b><b>RAS</b><b>-</b><b>FITQ</b></span>
 </a>
+
 <!-- Header Navbar: style can be found in header.less -->
 <nav class="navbar navbar-static-top">
   <!-- Sidebar toggle button-->
@@ -21,71 +22,60 @@
           <span class="label label-success">4</span>
         </a>
         <ul class="dropdown-menu">
-          <li class="header">You have 4 messages</li>
+          <li class="header">Hai ricevuto quattro messaggi </li>
           <li>
             <!-- inner menu: contains the actual data -->
             <ul class="menu">
               <li><!-- start message -->
                 <a href="#">
                   <div class="pull-left">
-                    <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                    <img src="dist/img/user1-128x128.jpg" class="img-circle" alt="User Image">
                   </div>
                   <h4>
-                    Support Team
-                    <small><i class="fa fa-clock-o"></i> 5 mins</small>
+                    Supporto Tecnico
+                    <small><i class="fa fa-clock-o"></i> 5 minuti</small>
                   </h4>
-                  <p>Why not buy a new awesome theme?</p>
+                  <p>Aggiornamenti del sistema</p>
                 </a>
               </li>
               <!-- end message -->
               <li>
                 <a href="#">
                   <div class="pull-left">
-                    <img src="dist/img/user3-128x128.jpg" class="img-circle" alt="User Image">
+                    <img src="dist/img/user8-128x128.jpg" class="img-circle" alt="User Image">
                   </div>
                   <h4>
-                    AdminLTE Design Team
-                    <small><i class="fa fa-clock-o"></i> 2 hours</small>
+                    Servizio Previdenza
+                    <small><i class="fa fa-clock-o"></i> 2 ore</small>
                   </h4>
-                  <p>Why not buy a new awesome theme?</p>
+                  <p>Notifica TFR</p>
                 </a>
               </li>
               <li>
                 <a href="#">
                   <div class="pull-left">
-                    <img src="dist/img/user4-128x128.jpg" class="img-circle" alt="User Image">
+                    <img src="dist/img/user7-128x128.jpg" class="img-circle" alt="User Image">
                   </div>
                   <h4>
-                    Developers
-                    <small><i class="fa fa-clock-o"></i> Today</small>
+                    Servizio Assistenza
+                    <small><i class="fa fa-clock-o"></i> Oggi</small>
                   </h4>
-                  <p>Why not buy a new awesome theme?</p>
+                  <p>Calcolo gestione IFR </p>
                 </a>
               </li>
               <li>
                 <a href="#">
                   <div class="pull-left">
-                    <img src="dist/img/user3-128x128.jpg" class="img-circle" alt="User Image">
+                    <img src="dist/img/avatar3.png" class="img-circle" alt="User Image">
                   </div>
                   <h4>
-                    Sales Department
-                    <small><i class="fa fa-clock-o"></i> Yesterday</small>
+                    Supporto amministrativo
+                    <small><i class="fa fa-clock-o"></i> Ieri </small>
                   </h4>
-                  <p>Why not buy a new awesome theme?</p>
+                  <p>circolare interna n. 12345</p>
                 </a>
               </li>
-              <li>
-                <a href="#">
-                  <div class="pull-left">
-                    <img src="dist/img/user4-128x128.jpg" class="img-circle" alt="User Image">
-                  </div>
-                  <h4>
-                    Reviewers
-                    <small><i class="fa fa-clock-o"></i> 2 days</small>
-                  </h4>
-                  <p>Why not buy a new awesome theme?</p>
-                </a>
-              </li>
+              
             </ul>
           </li>
           <li class="footer"><a href="#">See All Messages</a></li>
@@ -214,30 +204,30 @@
       <!-- User Account: style can be found in dropdown.less -->
       <li class="dropdown user user-menu">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-          <img src="dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
+          <img src="dist/img/emiliano.jpg" class="user-image" alt="User Image">
           <span class="hidden-xs">Emiliano Pisano</span>
         </a>
         <ul class="dropdown-menu">
           <!-- User image -->
           <li class="user-header">
-            <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+            <img src="dist/img/emiliano.jpg" class="img-circle" alt="User Image">
 
             <p>
-              Emiliano Pisano - Web Developer
-              <small>Member since Nov. 2012</small>
+              Emiliano Pisano - Matricola 123456
+              <small>Iscritto dal 19.07.1999</small>
             </p>
           </li>
           <!-- Menu Body -->
           <li class="user-body">
             <div class="row">
-              <div class="col-xs-4 text-center">
-                <a href="#">Followers</a>
+              <div class="col-xs-6 text-center">
+                <a href="#">Modifica dati personali</a>
               </div>
-              <div class="col-xs-4 text-center">
+              <!--<div class="col-xs-4 text-center">
                 <a href="#">Sales</a>
-              </div>
-              <div class="col-xs-4 text-center">
-                <a href="#">Friends</a>
+              </div>-->
+              <div class="col-xs-6 text-center">
+                <a href="#">Modifica password</a>
               </div>
             </div>
             <!-- /.row -->
@@ -245,10 +235,10 @@
           <!-- Menu Footer-->
           <li class="user-footer">
             <div class="pull-left">
-              <a href="#" class="btn btn-default btn-flat">Profile</a>
+              <a href="#" class="btn btn-default btn-flat">Profilo utente</a>
             </div>
             <div class="pull-right">
-              <a href="#" class="btn btn-default btn-flat">Sign out</a>
+              <a href="#" class="btn btn-default btn-flat">Esci</a>
             </div>
           </li>
         </ul>
