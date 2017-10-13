@@ -22,7 +22,7 @@
           <span class="label label-success">4</span>
         </a>
         <ul class="dropdown-menu">
-          <li class="header">Hai ricevuto quattro messaggi </li>
+          <li class="header">Hai ricevuto 4 messaggi </li>
           <li>
             <!-- inner menu: contains the actual data -->
             <ul class="menu">
@@ -78,7 +78,7 @@
               
             </ul>
           </li>
-          <li class="footer"><a href="#">See All Messages</a></li>
+          <li class="footer"><a href="#">vedi tutti i messaggi</a></li>
         </ul>
       </li>
       <!-- Notifications: style can be found in dropdown.less -->
@@ -88,39 +88,38 @@
           <span class="label label-warning">10</span>
         </a>
         <ul class="dropdown-menu">
-          <li class="header">You have 10 notifications</li>
+          <li class="header">Ci sono 10 avvisi</li>
           <li>
             <!-- inner menu: contains the actual data -->
             <ul class="menu">
               <li>
                 <a href="#">
-                  <i class="fa fa-users text-aqua"></i> 5 new members joined today
+                  <i class="fa fa-users text-aqua"></i> 5 Aggiornamento tabella TFR
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-warning text-yellow"></i> Very long description here that may not fit into the
-                  page and may cause design problems
+                  <i class="fa fa-warning text-yellow"></i> Bando anno 2017
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-users text-red"></i> 5 new members joined
+                  <i class="fa fa-users text-red"></i> 5 Scadenza richiesta piccolo prestito
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-shopping-cart text-green"></i> 25 sales made
+                  <i class="fa fa-shopping-cart text-green"></i> In arrivo nuovi CUD
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-user text-red"></i> You changed your username
+                  <i class="fa fa-user text-red"></i> Scadenza bando di concorso INPS
                 </a>
               </li>
             </ul>
           </li>
-          <li class="footer"><a href="#">View all</a></li>
+          <li class="footer"><a href="#">Vedi tutti i messaggi</a></li>
         </ul>
       </li>
       <!-- Tasks: style can be found in dropdown.less -->
@@ -130,18 +129,18 @@
           <span class="label label-danger">9</span>
         </a>
         <ul class="dropdown-menu">
-          <li class="header">You have 9 tasks</li>
+          <li class="header">Ci sono 9 criticità</li>
           <li>
             <!-- inner menu: contains the actual data -->
             <ul class="menu">
               <li><!-- Task item -->
                 <a href="#">
                   <h3>
-                    Design some buttons
-                    <small class="pull-right">20%</small>
+                    Compilare questionario interno
+                    <small class="pull-right"></small>
                   </h3>
                   <div class="progress xs">
-                    <div class="progress-bar progress-bar-aqua" style="width: 20%" role="progressbar"
+                    <div class="progress-bar progress-bar-aqua" style="width: 100%"" role="progressbar"
                          aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">20% Complete</span>
                     </div>
@@ -152,11 +151,11 @@
               <li><!-- Task item -->
                 <a href="#">
                   <h3>
-                    Create a nice theme
-                    <small class="pull-right">40%</small>
+                    Scadenza credenziali di accesso
+                    <small class="pull-right"></small>
                   </h3>
                   <div class="progress xs">
-                    <div class="progress-bar progress-bar-green" style="width: 40%" role="progressbar"
+                    <div class="progress-bar progress-bar-green" style="width: 100%"ole="progressbar"
                          aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">40% Complete</span>
                     </div>
@@ -167,11 +166,11 @@
               <li><!-- Task item -->
                 <a href="#">
                   <h3>
-                    Some task I need to do
-                    <small class="pull-right">60%</small>
+                    Aggiornamento del sistema
+                    <small class="pull-right"></small>
                   </h3>
                   <div class="progress xs">
-                    <div class="progress-bar progress-bar-red" style="width: 60%" role="progressbar"
+                    <div class="progress-bar progress-bar-red" style="width: 100%" role="progressbar"
                          aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">60% Complete</span>
                     </div>
@@ -182,11 +181,11 @@
               <li><!-- Task item -->
                 <a href="#">
                   <h3>
-                    Make beautiful transitions
-                    <small class="pull-right">80%</small>
+                    Avviso di backup del sistema
+                    <small class="pull-right"></small>
                   </h3>
                   <div class="progress xs">
-                    <div class="progress-bar progress-bar-yellow" style="width: 80%" role="progressbar"
+                    <div class="progress-bar progress-bar-yellow" style="width: 100%" role="progressbar"
                          aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">80% Complete</span>
                     </div>
@@ -197,7 +196,7 @@
             </ul>
           </li>
           <li class="footer">
-            <a href="#">View all tasks</a>
+            <a href="#">Vedi tutte le criticità</a>
           </li>
         </ul>
       </li>
