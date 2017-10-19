@@ -443,7 +443,7 @@
           borderColor    : '#00a65a' //Success (green)
         },
         {
-          title          : 'biglietto aereo',
+          title          : 'Biglietto aereo',
           start          : new Date(y, m, 28),
           end            : new Date(y, m, 29),
           url            : 'http://alitalia.it/',
