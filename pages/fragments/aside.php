@@ -28,10 +28,10 @@
       <a href="#">
         <i class="fa fa-dashboard"></i> <span>Cruscotto</span>
         <span class="pull-right-container">
-          <!-- /<i class="fa fa-angle-left pull-right"></i>  
+          /<i class="fa fa-angle-left pull-right"></i>  
         </span>
       </a>
-     <!-- / <ul class="treeview-menu">
+      / <ul class="treeview-menu">
         <li class="active"><a href="index.php"><i class="fa fa-circle-o"></i> Dashboard v1</a></li>
         <li><a href="index.php"><i class="fa fa-circle-o"></i> Dashboard v2</a></li>
       </ul> 
@@ -68,10 +68,10 @@
         </span>
       </a>
       <ul class="treeview-menu">
-        <li><a href="pages/charts/chartjs.html"><i class="fa fa-circle-o"></i> Posizione generale</a></li>
-        <li><a href="pages/charts/morris.html"><i class="fa fa-circle-o"></i> Posizione contributiva</a></li>
-        <li><a href="pages/charts/flot.html"><i class="fa fa-circle-o"></i> Consultazione cedolini</a></li>
-        <li><a href="pages/charts/inline.html"><i class="fa fa-circle-o"></i> Consultazione CU e CUD</a></li>
+        <li><a href="posizione-generale.php"><i class="fa fa-circle-o"></i> Posizione generale</a></li>
+        <li><a href="posizione-contributiva.php"><i class="fa fa-circle-o"></i> Posizione contributiva</a></li>
+        <li><a href="consultazione-cedolini.php"><i class="fa fa-circle-o"></i> Consultazione cedolini</a></li>
+        <li><a href="consultazione-cu-cud.php"><i class="fa fa-circle-o"></i> Consultazione CU e CUD</a></li>
       </ul>
     </li>
     
@@ -83,11 +83,10 @@
         </span>
       </a>
       <ul class="treeview-menu">
-        <li><a href="pages/forms/general.html"><i class="fa fa-circle-o"></i> Richiesta piccolo prestito </a></li>
-        <li><a href="pages/forms/advanced.html"><i class="fa fa-circle-o"></i> Richiesta anticipazione IFR/TFR </a></li>
-        <li><a href="pages/forms/editors.html"><i class="fa fa-circle-o"></i> Variazione residenza</a></li>
-        <li><a href="pages/forms/editors.html"><i class="fa fa-circle-o"></i> Variazione indirizzo posta elettronica</a></li>
-        <li><a href="pages/forms/editors.html"><i class="fa fa-circle-o"></i> Variazione riscossione </a></li>
+        <li><a href="richiesta-piccolo-prestito.php"><i class="fa fa-circle-o"></i> Richiesta piccolo prestito </a></li>
+        <li><a href="richiesta-anticipazione-ifr-tfr.php"><i class="fa fa-circle-o"></i> Richiesta anticipazione IFR/TFR </a></li>
+        <li><a href="variazioni-dati-utente.php"><i class="fa fa-circle-o"></i> Variazioni dati utente</a></li>
+        
       </ul>
     </li>
     <li class="treeview">
@@ -98,8 +97,8 @@
         </span>
       </a>
       <ul class="treeview-menu">
-        <li><a href="pages/tables/simple.html"><i class="fa fa-circle-o"></i> Visualizzazione IFR </a></li>
-        <li><a href="pages/tables/data.html"><i class="fa fa-circle-o"></i> Visualizzazione TFR </a></li>
+        <li><a href="visualizzazione-ifr.php"><i class="fa fa-circle-o"></i> Visualizzazione IFR </a></li>
+        <li><a href="visualizzazione-tfr.php"><i class="fa fa-circle-o"></i> Visualizzazione TFR </a></li>
       </ul>
     </li>
      <li class="treeview">
@@ -111,7 +110,7 @@
         </span>
       </a>
       <ul class="treeview-menu">
-        <li><a href="pages/UI/general.html"><i class="fa fa-circle-o"></i> Tool prestiti</a></li> <!-- 
+        <li><a href="tool-prestiti.php"><i class="fa fa-circle-o"></i> Tool prestiti</a></li> <!-- 
         <li><a href="pages/UI/icons.html"><i class="fa fa-circle-o"></i> Icons</a></li>
         <li><a href="pages/UI/buttons.html"><i class="fa fa-circle-o"></i> Buttons</a></li>
         <li><a href="pages/UI/sliders.html"><i class="fa fa-circle-o"></i> Sliders</a></li>
@@ -121,7 +120,7 @@
     </li>  
 
     <li>
-      <a href="pages/calendar.html">
+      <a href="calendario.php">
         <i class="fa fa-calendar"></i> <span>Calendario</span>
         <span class="pull-right-container">
           <small class="label pull-right bg-red">3</small>
@@ -129,16 +128,28 @@
         </span>
       </a>
     </li>
-    <li>
-      <a href="pages/mailbox/mailbox.html">
-        <i class="fa fa-envelope"></i> <span>Posta elettronica</span>
-        <span class="pull-right-container">
-          <!--<small class="label pull-right bg-yellow">12</small> -->
-          <small class="label pull-right bg-green">16</small>
-          <small class="label pull-right bg-red">5</small>
-        </span>
-      </a>
-    </li>
+    
+<li class="treeview active">
+          <a href="posta-elettronica.php">
+            <i class="fa fa-envelope"></i> <span>Posta elettronica</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li class="active">
+              <a href="posta-elettronica.php">Posta in arrivo
+                <span class="pull-right-container">
+                  <span class="label label-primary pull-right">13</span>
+                </span>
+              </a>
+            </li>
+            <li><a href="componi-messaggio.php">Componi messaggio</a></li>
+            <li><a href="leggi-messaggio.php">Leggi messaggio</a></li>
+          </ul>
+        </li>
+      
+    
     <!--<li class="treeview">
       <a href="#">
         <i class="fa fa-folder"></i> <span>Examples</span>
@@ -191,7 +202,7 @@
         <li><a href="#"><i class="fa fa-circle-o"></i> Level One</a></li>
       </ul>
     </li> -->
-    <li><a href="https://regione.sardegna.it/regione/leggi_e_normative/"><i class="fa fa-book"></i> <span>Documentazione</span></a></li>
+    <li><a href="documentazione.php"><i class="fa fa-book"></i> <span>Documentazione</span></a></li>
     <!--<li class="header">LABELS</li>
     <li><a href="#"><i class="fa fa-circle-o text-red"></i> <span>Important</span></a></li>
     <li><a href="#"><i class="fa fa-circle-o text-yellow"></i> <span>Warning</span></a></li>

@@ -212,15 +212,17 @@
             <img src="dist/img/emiliano.jpg" class="img-circle" alt="User Image">
 
             <p>
-              Emiliano Pisano - Matricola 123456
-              <small>Iscritto dal 19.07.1999</small>
+            <h3 class="box-title">DATI DI ACCESSO</h3>
+              Emiliano Pisano 
+              <small>Matricola 123456</small>
+
             </p>
           </li>
           <!-- Menu Body -->
           <li class="user-body">
             <div class="row">
               <div class="col-xs-6 text-center">
-                <a href="#">Modifica dati personali</a>
+                <a href="#">Profilo utente</a>
               </div>
               <!--<div class="col-xs-4 text-center">
                 <a href="#">Sales</a>
@@ -234,7 +236,7 @@
           <!-- Menu Footer-->
           <li class="user-footer">
             <div class="pull-left">
-              <a href="#" class="btn btn-default btn-flat">Profilo utente</a>
+              <a href="#" class="btn btn-default btn-flat">Assistenza</a>
             </div>
             <div class="pull-right">
               <a href="#" class="btn btn-default btn-flat">Esci</a>
