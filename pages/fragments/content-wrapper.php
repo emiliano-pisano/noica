@@ -38,7 +38,7 @@
         <p>Previdenza e Assistenza</p>
       </div>
       <div class="icon">
-        <i class="ion ion-stats-bars"></i>
+        <i class="ion ion-clipboard"></i>
       </div>
       <a href="#" class="small-box-footer">Altre informazioni <i class="fa fa-arrow-circle-right"></i></a>
     </div>
@@ -68,7 +68,7 @@
         <p>Servizi</p>
       </div>
       <div class="icon">
-        <i class="ion ion-pie-graph"></i>
+        <i class="ion ion-earth"></i>
       </div>
       <a href="#" class="small-box-footer">Altre informazioni<i class="fa fa-arrow-circle-right"></i></a>
     </div>
