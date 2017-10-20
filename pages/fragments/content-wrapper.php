@@ -18,7 +18,7 @@
     <!-- small box -->
     <div class="small-box bg-aqua">
       <div class="inner">
-        <h3>L'OFFERTA</h3>
+        <h3>OFFERTA</h3>
 
         <p>Cosa Facciamo</p>
       </div>
