@@ -88,17 +88,17 @@
     <!-- TO DO List -->
     <div class="box box-primary">
       <div class="box-header">
-        <i class="ion ion-clipboard"></i>
+        
 
         <h3 class="box-title">In primo piano</h3>
 
         <div class="box-tools pull-right">
           <ul class="pagination pagination-sm inline">
-            <li><a href="#">&laquo;</a></li>
-            <li><a href="#">1</a></li>
-            <li><a href="#">2</a></li>
-            <li><a href="#">3</a></li>
-            <li><a href="#">&raquo;</a></li>
+            
+            <li><a href="#"><h3 class="box-title">Archivio</h3></a></li>
+            
+            
+            
           </ul>
         </div>
       </div>
@@ -113,11 +113,12 @@
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
             <!-- checkbox -->
-            <input type="checkbox" value="">
+            
             <!-- todo text -->
-            <span class="text">Temporanea sospensione del servizio di assistenza telefonica (numero verde)</span>
+            <span class="text">Temporanea sospensione del servizio di assistenza telefonica</span>
             <!-- Emphasis label -->
             <small class="label label-danger"><i class="fa fa-clock-o"></i> 2 minuti</small>
+            <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
             <!-- General tools such as edit or delete-->
             
           </li>
@@ -126,49 +127,50 @@
                   <i class="fa fa-ellipsis-v"></i>
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
-            <input type="checkbox" value="">
+            
             <span class="text">Per esigenze di elaborazione la chiusura del sistema sarà anticipata alle ore 16.</span>
             <small class="label label-info"><i class="fa fa-clock-o"></i> 4 ore</small>
-            
+            <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
           </li>
           <li>
                 <span class="handle">
                   <i class="fa fa-ellipsis-v"></i>
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
-            <input type="checkbox" value="">
+            
             <span class="text">Assistenza telefonica - Possibili disservizi</span>
             <small class="label label-warning"><i class="fa fa-clock-o"></i> 1 giorno</small>
-            
+            <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
           </li>
           <li>
                 <span class="handle">
                   <i class="fa fa-ellipsis-v"></i>
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
-            <input type="checkbox" value="">
-            <span class="text">Lunedì 14 agosto, il servizio di assistenza telefonica (numero verde) non sarà attivo.</span>
+            
+            <span class="text">Il servizio di assistenza telefonica (numero verde) non sarà attivo.</span>
             <small class="label label-success"><i class="fa fa-clock-o"></i> 3 giorni</small>
-            
+            <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
           </li>
           <li>
                 <span class="handle">
                   <i class="fa fa-ellipsis-v"></i>
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
-            <input type="checkbox" value="">
-            <span class="text">La data di esigibilità dell'emissione straordinaria dei modelli 730/2017 è il 28 luglio</span>
+            
+            <span class="text">Data di esigibilità dell'emissione straordinaria dei modelli 730/2017</span>
             <small class="label label-primary"><i class="fa fa-clock-o"></i> 1 settimana</small>
-            
+            <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
           </li>
           <li>
                 <span class="handle">
                   <i class="fa fa-ellipsis-v"></i>
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
-            <input type="checkbox" value="">
+            
             <span class="text">Comunicazione date emissioni mese di agosto 2017</span>
             <small class="label label-default"><i class="fa fa-clock-o"></i> 1 mese</small>
+            <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
             
           </li>
         </ul>
@@ -208,11 +210,11 @@
             <h4>Allegato:</h4>
 
             <p class="filename">
-              Theme-thumbnail-image.jpg
+              Tfr.jpg
             </p>
 
             <div class="pull-right">
-              <button type="button" class="btn btn-primary btn-sm btn-flat">Open</button>
+              <button type="button" class="btn btn-primary btn-sm btn-flat">Apri</button>
             </div>
           </div>
           <!-- /.attachment -->
