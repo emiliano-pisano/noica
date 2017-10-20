@@ -205,7 +205,7 @@
               <small class="text-muted pull-right"><i class="fa fa-clock-o"></i> 2:15</small>
               Nicola Demuro
             </a>
-            Vorrei incontrarvi per discutere le ultime notizie sul TFR. Ti invio allegato. Ciao a presto</p>
+            Vorrei incontrarti per discutere le ultime notizie sul TFR. Ti invio allegato. Ciao a presto</p>
           <div class="attachment">
             <h4>Allegato:</h4>
 
