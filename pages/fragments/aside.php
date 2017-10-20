@@ -61,7 +61,7 @@
     </li> -->
     <li class="treeview">
       <a href="#">
-        <i class="fa fa-pie-chart"></i>
+        <i class="fa fa-id-card-o"></i>
         <span>Visualizzazione generale</span>
         <span class="pull-right-container">
           <i class="fa fa-angle-left pull-right"></i>
@@ -91,7 +91,7 @@
     </li>
     <li class="treeview">
       <a href="#">
-        <i class="fa fa-table"></i> <span>Gestione fine rapporto</span>
+        <i class="fa fa-handshake-o"></i> <span>Gestione fine rapporto</span>
         <span class="pull-right-container">
           <i class="fa fa-angle-left pull-right"></i>
         </span>
