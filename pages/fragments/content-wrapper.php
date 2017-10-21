@@ -79,7 +79,7 @@
 <!-- Main row -->
 <div class="row">
   <!-- Left col -->
-  <section class="col-lg-7 connectedSortable">
+  <section class="col-lg-12 connectedSortable">
     <!-- Custom tabs (Charts with tabs)-->
     
     <!-- /.nav-tabs-custom -->
@@ -179,7 +179,8 @@
      
     </div>
     <!-- /.box -->
-
+  </section>
+  <section class="col-lg-7">
 <!-- Chat box -->
     <div class="box box-success">
       <div class="box-header">
@@ -259,13 +260,9 @@
       </div>
     </div>
     <!-- /.box (chat box) -->
-
+</section>
     <!-- quick email widget -->
-   
-  </section>
-  <!-- /.Left col -->
-  <!-- right col (We are only adding the ID to make the widgets sortable)-->
-  <section class="col-lg-5 connectedSortable">
+ <section class="col-lg-5 connectedSortable">
 
     <!-- Map box -->
     
@@ -354,6 +351,9 @@
 
   </section>
   <!-- right col -->
+  <!-- /.Left col -->
+  <!-- right col (We are only adding the ID to make the widgets sortable)-->
+
 </div>
 <!-- /.row (main row) -->
 
