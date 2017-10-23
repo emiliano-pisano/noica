@@ -29,7 +29,7 @@
 <!-- Automatic element centering -->
 <div class="lockscreen-wrapper">
   <div class="lockscreen-logo">
-    <a href="./index.php"><img src="dist/img/logo.gif" </a>
+    <a href="index.php"><img src="dist/img/logo.gif" </a>
     <p> <h3 class="box-title"><b>F.I.T.Q.</b></h3> </p>
   </div>
   <!-- User name -->
