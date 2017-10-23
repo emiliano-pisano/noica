@@ -64,7 +64,7 @@
     <a href="index.php">Oppure accedi con un utente diverso</a>
   </div>
   <div class="lockscreen-footer text-center">
-    Copyright &copy; 2017 <b><a href="https://regione.sardegna.it" class="text-black">Regione Autonoma della Sardegna</a></b><br>
+    Copyright &copy; 2017 <b><a href="https://regione.sardegna.it" class="text-black">Regione Autonoma della Sardegna.</a></b><br>
     Tutti i diritti riservati.
   </div>
 </div>
