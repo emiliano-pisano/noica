@@ -115,7 +115,7 @@
             <!-- checkbox -->
             
             <!-- todo text -->
-            <span class="text">Temporanea sospensione del servizio di assistenza telefonica</span>
+            <span class="text">Si comunica che nella giornata di lunedì 4 dicembre, il servizio di assistenza telefonica (numero verde) non sarà attivo.</span>
             <!-- Emphasis label -->
             <small class="label label-danger"><i class="fa fa-clock-o"></i> 2 minuti</small>
             <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
@@ -128,7 +128,7 @@
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
             
-            <span class="text">Per esigenze di elaborazione la chiusura del sistema sarà anticipata alle ore 16.</span>
+            <span class="text">Per esigenze di elaborazione la chiusura del sistema Portale FITQ, mercoledì 30 novembre, sarà anticipata alle ore 16.</span>
             <small class="label label-info"><i class="fa fa-clock-o"></i> 4 ore</small>
             <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
           </li>
@@ -138,7 +138,7 @@
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
             
-            <span class="text">Assistenza telefonica - Possibili disservizi</span>
+            <span class="text">Temporanea indisponibilità delle richieste 'Piccolo prestito FITQ' </span>
             <small class="label label-warning"><i class="fa fa-clock-o"></i> 1 giorno</small>
             <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
           </li>
@@ -158,7 +158,7 @@
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
             
-            <span class="text">Data di esigibilità dell'emissione straordinaria dei modelli 730/2017</span>
+            <span class="text">Data di esigibilità dell'emissione straordinaria per l'applicazione del conguaglio fiscale relativo ai modelli 730/2017</span>
             <small class="label label-primary"><i class="fa fa-clock-o"></i> 1 settimana</small>
             <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
           </li>
@@ -168,7 +168,7 @@
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
             
-            <span class="text">Comunicazione date emissioni mese di agosto 2017</span>
+            <span class="text">Segnalazioni di accrediti per importi inferiori a quanto specificato nell'assegno integrativo - rata di ottobre 2017</span>
             <small class="label label-default"><i class="fa fa-clock-o"></i> 1 mese</small>
             <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
             
@@ -254,7 +254,7 @@
           <input class="form-control" placeholder="Scrivi messaggio...">
 
           <div class="input-group-btn">
-            <button type="button" class="btn btn-success"><i class="fa fa-plus"></i></button>
+            <button type="button" class="btn btn-success"><i class="fa fa-paper-plane"></i></button>
           </div>
         </div>
       </div>

@@ -84,7 +84,7 @@
       </a>
       <ul class="treeview-menu">
         <li><a href="richiesta-piccolo-prestito.php"><i class="fa fa-circle-o"></i> Richiesta piccolo prestito </a></li>
-        <li><a href="richiesta-anticipazione-ifr-tfr.php"><i class="fa fa-circle-o"></i> Richiesta anticipazione IFR/TFR </a></li>
+        <li><a href="richiesta-anticipazione-ifr-tfr.php"><i class="fa fa-circle-o"></i> Richiesta IFR/TFR </a></li>
         <li><a href="variazioni-dati-utente.php"><i class="fa fa-circle-o"></i> Variazioni dati utente</a></li>
         
       </ul>
@@ -110,15 +110,16 @@
         </span>
       </a>
       <ul class="treeview-menu">
-        <li><a href="tool-prestiti.php"><i class="fa fa-circle-o"></i> Tool prestiti</a></li> <!-- 
+      
+        <li><a href="tool-prestiti.php"><i class="fa fa-circle-o"></i> Tool prestiti</a> </li><!-- 
         <li><a href="pages/UI/icons.html"><i class="fa fa-circle-o"></i> Icons</a></li>
         <li><a href="pages/UI/buttons.html"><i class="fa fa-circle-o"></i> Buttons</a></li>
         <li><a href="pages/UI/sliders.html"><i class="fa fa-circle-o"></i> Sliders</a></li>
         <li><a href="pages/UI/timeline.html"><i class="fa fa-circle-o"></i> Timeline</a></li>
         <li><a href="pages/UI/modals.html"><i class="fa fa-circle-o"></i> Modals</a></li>-->
+     
       </ul>
-    </li>  
-
+   
     <li>
       <a href="calendario.php">
         <i class="fa fa-calendar"></i> <span>Calendario</span>
@@ -206,7 +207,7 @@
     <!--<li class="header">LABELS</li>
     <li><a href="#"><i class="fa fa-circle-o text-red"></i> <span>Important</span></a></li>
     <li><a href="#"><i class="fa fa-circle-o text-yellow"></i> <span>Warning</span></a></li>
-    <li><a href="#"><i class="fa fa-circle-o text-aqua"></i> <span>Information</span></a></li>
-  </ul> -->
+    <li><a href="#"><i class="fa fa-circle-o text-aqua"></i> <span>Information</span></a></li>-->
+  </ul> 
 </section>
 <!-- /.sidebar -->

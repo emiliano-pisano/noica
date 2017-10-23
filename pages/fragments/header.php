@@ -94,27 +94,27 @@
             <ul class="menu">
               <li>
                 <a href="#">
-                  <i class="fa fa-users text-aqua"></i> 5 Aggiornamento tabella TFR
+                  <i class="fa fa-table text-aqua"></i> Aggiornamento tabella TFR
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-warning text-yellow"></i> Bando anno 2017
+                  <i class="fa fa-file-text-o text-green"></i> Bando anno 2017
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-users text-red"></i> 5 Scadenza richiesta piccolo prestito
+                  <i class="fa fa-users text-yellow"></i> Scadenza richiesta piccolo prestito
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-shopping-cart text-green"></i> In arrivo nuovi CUD
+                  <i class="fa fa-file-o text-green"></i> In arrivo nuovi CUD
                 </a>
               </li>
               <li>
                 <a href="#">
-                  <i class="fa fa-user text-red"></i> Scadenza bando di concorso INPS
+                  <i class="fa fa-book text-red"></i> Riapertura bando di concorso INPS
                 </a>
               </li>
             </ul>
@@ -244,10 +244,7 @@
           </li>
         </ul>
       </li>
-      <!-- Control Sidebar Toggle Button -->
-      <li>
-        <a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
-      </li>
+            
     </ul>
   </div>
 </nav>
