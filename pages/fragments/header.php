@@ -239,7 +239,7 @@
               <a href="#" class="btn btn-default btn-flat">Assistenza</a>
             </div>
             <div class="pull-right">
-              <a href="#" class="btn btn-default btn-flat">Esci</a>
+              <a href="./login.php" class="btn btn-default btn-flat">Esci</a>
             </div>
           </li>
         </ul>
