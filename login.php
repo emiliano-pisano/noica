@@ -58,7 +58,7 @@
   </div>
   <!-- /.lockscreen-item -->
   <div class="help-block text-center">
-    Digita la tua password per accedere alla tua sessione
+    Digita la password per accedere alla tua sessione
   </div>
   <div class="text-center">
     <a href="index.php">Oppure accedi con un utente diverso</a>
