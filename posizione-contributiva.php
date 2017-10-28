@@ -43,21 +43,6 @@
        immediately after the control sidebar -->
   <div class="control-sidebar-bg"></div>
 </div>
-<!-- ./wrapper -->
-
-<!-- jQuery 3 -->
-<script src="./bower_components/jquery/dist/jquery.min.js"></script>
-<!-- Bootstrap 3.3.7 -->
-<script src="./bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-<!-- Morris.js charts -->
-<script src="./bower_components/raphael/raphael.min.js"></script>
-<script src="./bower_components/morris.js/morris.min.js"></script>
-<!-- FastClick -->
-<script src="./bower_components/fastclick/lib/fastclick.js"></script>
-<!-- AdminLTE App -->
-<script src="./dist/js/adminlte.min.js"></script>
-<!-- AdminLTE for demo purposes -->
-<script src="./dist/js/demo.js"></script>
-<!-- page script -->
+<?php require 'pages/fragments/script.php';?>
 </body>
 </html>
