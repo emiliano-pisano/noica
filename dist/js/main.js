@@ -68,4 +68,9 @@ $(function() {
         display: 'block'
     });
     $($('.treeview-menu')[menu_number]).parent().toggleClass('menu-open');
+    
+    $($('.treeview-menu')[menu_number 1]).css({
+        display: 'block'
+    });
+    $($('.treeview-menu')[menu_number 1]).parent().toggleClass('menu-open');
 });
