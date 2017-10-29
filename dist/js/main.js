@@ -1,4 +1,5 @@
 
+
 $(function() {
 
     var menu_number;
@@ -15,6 +16,14 @@ $(function() {
         case '/consultazione-cu-cud.php':
             menu_number = 0;
             break; 
+                    
+        default:
+            cmenu_number = -1;
+    }
+
+    var menu_number;
+    switch(window.location.pathname) {
+        
         case '/richiesta-piccolo-prestito.php':
             menu_number = 0;
             break;  
@@ -24,12 +33,29 @@ $(function() {
         case '/variazione-dati-utente.php':
             menu_number = 0;
             break; 
+                   
+        default:
+            cmenu_number = -1;
+    }
+
+    var menu_number;
+    switch(window.location.pathname) {
+        
         case '/visualizzazione-tfr.php':
             menu_number = 0;
             break; 
         case '/visualizzazione-ifr.php':
             menu_number = 0;
             break;  
+        
+            
+        default:
+            cmenu_number = -1;
+    }
+
+    var menu_number;
+    switch(window.location.pathname) {
+        
         case '/tool-prestiti.php':
             menu_number = 0;
             break;     
