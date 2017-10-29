@@ -25,13 +25,13 @@ $(function() {
     switch(window.location.pathname) {
         
         case '/richiesta-piccolo-prestito.php':
-            menu_number1 = 0;
+            menu_number1 = 1;
             break;  
         case '/richiesta-anticipazione-ifr-tfr.php':
-            menu_number1 = 0;
+            menu_number1 = 1;
             break;
         case '/variazione-dati-utente.php':
-            menu_number1 = 0;
+            menu_number1 = 1;
             break; 
                    
         default:
@@ -42,10 +42,10 @@ $(function() {
     switch(window.location.pathname) {
         
         case '/visualizzazione-tfr.php':
-            menu_number2 = 0;
+            menu_number2 = 2;
             break; 
         case '/visualizzazione-ifr.php':
-            menu_number2 = 0;
+            menu_number2 = 2;
             break;  
         
             
@@ -57,7 +57,7 @@ $(function() {
     switch(window.location.pathname) {
         
         case '/tool-prestiti.php':
-            menu_number3 = 0;
+            menu_number3 = 3;
             break;     
             
         default:
@@ -69,8 +69,5 @@ $(function() {
     });
     $($('.treeview-menu')[menu_number]).parent().toggleClass('menu-open');
     
-    $($('.treeview-menu')[menu_number1]).css({
-        display: 'block'
-    });
-    $($('.treeview-menu')[menu_number1]).parent().toggleClass('menu-open');
+    
 });
