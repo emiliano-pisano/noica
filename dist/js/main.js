@@ -25,43 +25,43 @@ $(function() {
     switch(window.location.pathname) {
         
         case '/richiesta-piccolo-prestito.php':
-            menu_number = 1;
+            menu_number = 0;
             break;  
         case '/richiesta-anticipazione-ifr-tfr.php':
-            menu_number = 1;
+            menu_number = 0;
             break;
         case '/variazione-dati-utente.php':
-            menu_number = 1;
+            menu_number = 0;
             break; 
                    
         default:
-            cmenu_number = -2;
+            cmenu_number = -1;
     }
 
     var menu_number 2;
     switch(window.location.pathname) {
         
         case '/visualizzazione-tfr.php':
-            menu_number = 2;
+            menu_number = 0;
             break; 
         case '/visualizzazione-ifr.php':
-            menu_number = 2;
+            menu_number = 0;
             break;  
         
             
         default:
-            cmenu_number = -3;
+            cmenu_number = -1;
     }
 
     var menu_number 3;
     switch(window.location.pathname) {
         
         case '/tool-prestiti.php':
-            menu_number = 3;
+            menu_number = 0;
             break;     
             
         default:
-            cmenu_number = -4;
+            cmenu_number = -1;
     }
 
     $($('.treeview-menu')[menu_number]).css({
