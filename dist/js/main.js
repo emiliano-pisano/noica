@@ -35,7 +35,7 @@ $(function() {
             break; 
                    
         default:
-            cmenu_number = -1;
+            cmenu_number = -2;
     }
 
     var menu_number 2;
@@ -50,7 +50,7 @@ $(function() {
         
             
         default:
-            cmenu_number = -1;
+            cmenu_number = -3;
     }
 
     var menu_number 3;
@@ -61,7 +61,7 @@ $(function() {
             break;     
             
         default:
-            cmenu_number = -1;
+            cmenu_number = -4;
     }
 
     $($('.treeview-menu')[menu_number]).css({
