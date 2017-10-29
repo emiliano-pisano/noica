@@ -28,7 +28,7 @@
                 <label>
                  <i class="fa fa-cogs" style=" font-size:48px; color:#00a65a; "> </i> Simulazione Piccolo Prestito: è possibile effettuare una simulazione della richiesta, ottenendo un'ipotesi di rata a partire dall'importo e dalla durata indicati.
                 </label>
-                <div class="pull-right"><input type="checkbox" class="minimal"></div>
+                
               </div>
                               
             <div class="pull-right">
