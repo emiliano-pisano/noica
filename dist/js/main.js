@@ -14,7 +14,25 @@ $(function() {
             break;
         case '/consultazione-cu-cud.php':
             menu_number = 0;
-            break;    
+            break; 
+        case '/richiesta-piccolo-prestito.php':
+            menu_number = 0;
+            break;  
+        case '/richiesta-anticipazione-ifr-tfr.php':
+            menu_number = 0;
+            break;
+        case '/variazione-dati-utente.php':
+            menu_number = 0;
+            break; 
+        case '/visualizzazione-tfr.php':
+            menu_number = 0;
+            break; 
+        case '/visualizzazione-ifr.php':
+            menu_number = 0;
+            break;  
+        case '/tool-prestiti.php':
+            menu_number = 0;
+            break;     
             
         default:
             cmenu_number = -1;
