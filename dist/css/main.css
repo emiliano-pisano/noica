@@ -4,3 +4,11 @@
 .skin-blue .main-header .navbar .sidebar-toggle:hover {
     background-color: #bd0518;
 }
+
+.lockscreen {
+    background-color: #fff;
+}
+
+.box-title {
+    color: #f00;
+}
