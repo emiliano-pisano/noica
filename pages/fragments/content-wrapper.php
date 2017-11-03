@@ -5,7 +5,7 @@
   <!--<small>Pannello di controllo</small>-->
 </h1>
 <ol class="breadcrumb">
-    <li class="active"><u>Home</u></li>
+    <li class="active"><i class="fa fa-home"></i> <u>Home</u></li>
 </ol>
 </section>
 
