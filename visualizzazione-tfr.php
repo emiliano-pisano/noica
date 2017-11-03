@@ -25,7 +25,7 @@
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
         <li><a href="#">Gestione fine rapporto</a></li>
-        <li class="active">Visualizzazione TFR</li>
+        <li class="active"><u>Visualizzazione TFR</u></li>
       </ol>
     </section>
  <!-- Main content -->
