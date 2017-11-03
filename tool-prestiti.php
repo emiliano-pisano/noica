@@ -23,8 +23,8 @@
         Tool prestiti
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-        <li><a href="#">Simulatore prestiti</a></li>
+        <li><a href="index.php"><i class="fa fa-home"></i> Home</a> </li>
+        <li class="active">Simulatore prestiti</li>
        <li class="active"><u>Tool prestiti</u></li>
       </ol>
     </section>
