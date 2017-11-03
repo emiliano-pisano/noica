@@ -48,7 +48,7 @@
       </h1>
       <iframe src="https://regione.sardegna.it/regione/leggi_e_normative/" height="900px" width="100%"></iframe>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li><a href="index.php"><i class="fa fa-home"></i> Home</a> </li>
         <li class="active"><u>Documentazione</u></li>
       </ol>
     </section>
