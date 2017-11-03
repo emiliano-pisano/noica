@@ -25,7 +25,7 @@
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
         <li><a href="#">Visualizzazione generale</a></li>
-        <li class="active">Consultazione CU e CUD</li>
+        <li class="active"><u>Consultazione CU e CUD</u></li>
       </ol>
     </section>
     <!-- Main content -->
