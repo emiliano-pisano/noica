@@ -23,8 +23,8 @@
         Visualizzazione IFR
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-        <li><a href="#">Gestione fine rapporto</a></li>
+        <li><a href="index.php"><i class="fa fa-home"></i> Home</a> </li>
+        <li class="active">Gestione fine rapporto</li>
        <li class="active"><u>Visualizzazione IFR</u></li>
       </ol>
     </section>
