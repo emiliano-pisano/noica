@@ -1,12 +1,11 @@
 <!-- Content Header (Page header) -->
 <section class="content-header">
 <h1>
-  Cruscotto
+  Home
   <!--<small>Pannello di controllo</small>-->
 </h1>
 <ol class="breadcrumb">
-  <li><a href="index.php"><i class="fa fa-dashboard"></i> Home</a></li>
-  <li class="active"><u>Cruscotto</u></li>
+    <li class="active"><u>Home</u></li>
 </ol>
 </section>
 
