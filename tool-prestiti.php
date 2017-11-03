@@ -25,7 +25,7 @@
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
         <li><a href="#">Simulatore prestiti</a></li>
-        <li class="active">Tool prestiti</li>
+       <li class="active"><u>Tool prestiti</u></li>
       </ol>
     </section>
     <!-- Main content -->
