@@ -124,8 +124,8 @@
       <a href="calendario.php">
         <i class="fa fa-calendar"></i> <span>Calendario</span>
         <span class="pull-right-container">
-          <small class="label pull-right bg-red">3</small>
-          <small class="label pull-right bg-blue">17</small>
+          <small class="label pull-right bg-red">1</small>
+          <small class="label pull-right bg-blue">6</small>
         </span>
       </a>
     </li>
