@@ -204,7 +204,7 @@
       <li class="dropdown user user-menu">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
           <img src="dist/img/emiliano.jpg" class="user-image" alt="User Image">
-          <span class="hidden-xs">Emiliano Pisano</span>
+          <span class="hidden-xs">Emiliano Pisano <i class="fa fa-chevron-circle-down"> </i> </span>
         </a>
         <ul class="dropdown-menu">
           <!-- User image -->
@@ -222,13 +222,13 @@
           <li class="user-body">
             <div class="row">
               <div class="col-xs-6 text-center">
-                <a href="#">Profilo utente</a>
+                <a href="#">Modifica Profilo utente</a>
               </div>
               <!--<div class="col-xs-4 text-center">
                 <a href="#">Sales</a>
               </div>-->
               <div class="col-xs-6 text-center">
-                <a href="#">Modifica password</a>
+                <a href="#"> Modifica password</a>
               </div>
             </div>
             <!-- /.row -->
@@ -236,10 +236,10 @@
           <!-- Menu Footer-->
           <li class="user-footer">
             <div class="pull-left">
-              <a href="#" class="btn btn-default btn-flat">Assistenza</a>
+              <a href="#" class="btn btn-default btn-flat"> <i class="fa fa-user-circle"></i> Assistenza</a>
             </div>
             <div class="pull-right">
-              <a href="./login.php" class="btn btn-default btn-flat">Esci</a>
+              <a href="./login.php" class="btn btn-default btn-flat"><i class="fa fa-power-off"></i> Esci</a>
             </div>
           </li>
         </ul>
