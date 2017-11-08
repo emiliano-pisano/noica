@@ -308,7 +308,7 @@
           <div class="col-sm-6">
             <!-- Progress bars -->
             <div class="clearfix">
-              <span class="pull-left">Compito #1</span>
+              <span class="pull-left">Relazione prestito banca</span>
               <small class="pull-right">90%</small>
             </div>
             <div class="progress xs">
@@ -316,7 +316,7 @@
             </div>
 
             <div class="clearfix">
-              <span class="pull-left">Compito #2</span>
+              <span class="pull-left">Compilazione modulo TFR</span>
               <small class="pull-right">70%</small>
             </div>
             <div class="progress xs">
@@ -326,7 +326,7 @@
           <!-- /.col -->
           <div class="col-sm-6">
             <div class="clearfix">
-              <span class="pull-left">Compito #3</span>
+              <span class="pull-left">Variazione assegno integrativo</span>
               <small class="pull-right">60%</small>
             </div>
             <div class="progress xs">
@@ -334,7 +334,7 @@
             </div>
 
             <div class="clearfix">
-              <span class="pull-left">Compito #4</span>
+              <span class="pull-left">Recupero IRPEF</span>
               <small class="pull-right">40%</small>
             </div>
             <div class="progress xs">
