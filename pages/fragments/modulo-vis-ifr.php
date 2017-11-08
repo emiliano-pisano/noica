@@ -34,7 +34,7 @@
 
             <!-- /.box-body -->
             <div class="box-footer">
-              Vai alla seguente <a href="https://regione.sardegna.it/regione/leggi_e_normative/"> documentazione</a> per ulteriori informazioni.
+              Vai alla seguente <a href="http://www.regione.sardegna.it/j/v/2647?s=1&v=9&c=12831&na=1&n=10"> documentazione</a> per ulteriori informazioni.
          
             </div>
           </div>
