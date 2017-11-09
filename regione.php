@@ -46,7 +46,7 @@
       <h1>
         Regione Autonoma della Sardegna
       </h1>
-      <iframe src="http://www.regione.sardegna.it" height="900px" width="100%"></iframe>
+      <iframe src="https://www.regione.sardegna.it" height="900px" width="100%"></iframe>
       <ol class="breadcrumb">
         <li><a href="index.php"><i class="fa fa-home"></i> Home</a> </li>
         <li class="active"><u>Regione Autonoma della Sardegna</u></li>
