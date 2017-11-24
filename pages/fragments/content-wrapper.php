@@ -127,7 +127,7 @@
                   <i class="fa fa-ellipsis-v"></i>
                 </span>
             
-            <span class="text">Per esigenze di elaborazione la chiusura del sistema Portale FITQ, mercoledì 30 novembre, sarà anticipata alle ore 16.</span>
+            <span class="text">Per esigenze di elaborazione la chiusura del sistema Portale FITQ, giovedì 30 novembre, sarà anticipata alle ore 16.</span>
             <small class="label label-info"><i class="fa fa-clock-o"></i> 4 ore</small>
             <p><a href="#" class="small-box-footer">Leggi di più<i class="fa fa-arrow-circle-right"></i></a></p>
           </li>
