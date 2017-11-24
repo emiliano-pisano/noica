@@ -444,8 +444,8 @@
         },
         {
           title          : 'Biglietto aereo',
-          start          : new Date(y, m, 29),
-          end            : new Date(y, m, 30),
+          start          : new Date(y, m, 30),
+          end            : new Date(y, m, 01),
           url            : 'http://alitalia.it/',
           backgroundColor: '#3c8dbc', //Primary (light-blue)
           borderColor    : '#3c8dbc' //Primary (light-blue)
